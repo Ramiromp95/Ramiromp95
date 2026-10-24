@@ -11,9 +11,9 @@ Asistente basado en Gemma y Ollama. Responde con una biblioteca propia y contras
 
 | Biblioteca | Fuentes |
 |---|---|
-| Ataque y detección | MITRE ATT&CK · Sigma · Atomic Red Team |
+| Ataque y detección | MITRE ATT&CK / Sigma / Atomic Red Team |
 | Técnicas con binarios del sistema | LOLBAS · GTFOBins |
-| Debilidades y pruebas web | OWASP · CAPEC · CWE |
+| Debilidades y pruebas web | OWASP / CAPEC / CWE |
 
 **Cuadernos de estudio**
 
