@@ -12,7 +12,7 @@ Asistente basado en Gemma y Ollama. Responde con una biblioteca propia y contras
 | Biblioteca | Fuentes |
 |---|---|
 | Ataque y detección | MITRE ATT&CK / Sigma / Atomic Red Team |
-| Técnicas con binarios del sistema | LOLBAS · GTFOBins |
+| Técnicas con binarios del sistema | LOLBAS / GTFOBins |
 | Debilidades y pruebas web | OWASP / CAPEC / CWE |
 
 **Cuadernos de estudio**
@@ -29,9 +29,7 @@ Asistente basado en Gemma y Ollama. Responde con una biblioteca propia y contras
 - Un único módulo puede salir a internet, con lista blanca, solo HTTPS y aprobación del usuario en cada búsqueda
 - Defensa contra prompt injection. Todo texto externo se limpia y se trata como datos, nunca como órdenes
 - Ventana sin permisos de red, con Content-Security-Policy y motor aislado tras un proxy cerrado
-- Registro de cada conexión, panel de seguridad y hallazgos de auditoría documentados
-
-**Tecnologías** · Python · SQLite FTS5 · Ollama · pywebview · MITRE ATT&CK · Sigma · CVSS 3.1 · EPSS · KEV
+- Registro de cada conexión, panel de seguridad y hallazgos de auditoría documentado.
 
 ---
 
