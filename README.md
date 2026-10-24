@@ -2,7 +2,7 @@
 
 Ecosistema de ciberseguridad formado por una IA que funciona entera en local y cuatro cuadernos de estudio que se alimentan entre sí. Está orientado a threat hunting, ciberinteligencia, red team y bug bounty, y diseñado con seguridad por defecto.
 
-[Ver el proyecto](https://github.com/Ramiromp95/ram535) · [Ver los cuadernos en línea](https://ramiromp95.github.io/ram535/)
+[Ver el proyecto](https://github.com/Ramiromp95/ram535) / [Ver los cuadernos en línea](https://ramiromp95.github.io/ram535/)
 
 ### Componentes
 
